@@ -20,5 +20,24 @@ This project includes the completion of the following steps:
 * Evaluating potential model biases with Aequitas toolkit
 
 ## The Project at a glance
+This project is frame in three complementary files: one main code structure (Project) and two supporting files (utils and student_utils). 
 
+The main structure is divided in: 
+1. Project description 
+2. Project objectives
+3. Data preparation, which involves the loading of the dataset, the determination of the dataset level (line or encounter), an exploratory data analysis (EDA), feature selection, splitting the dataset into train, validation and test partitions, demographic representation analysis of the split, the convertion of the dataset splits into TF dataset, among other relevant steps.
+4. Building vocabulary and creating categorical features with TensorFlow (TF) feature column API
+5. Continuous/numerical features creation with TF feature columns
+6. Deep learning regression model building with sequential API and TF probability layers Use DenseFeatures to combine features for model
+## Build sequential API model from DenseFeatures and TF probability layers
+## Show model uncertainty range with TF probability
+## Show prediction output 
+## Convert regression output to classification output for patient selection
+### Add binary prediction to test dataframe
+## Model evaluation metrics 
 
+7. Evaluating potential model biases with Aequitas toolkit
+## Prepare data for Aequitas bias toolkit 
+## Reference group selection
+## Race and gender bias analysis for patient selection
+## Fairness analysis example - relative to a reference group 
