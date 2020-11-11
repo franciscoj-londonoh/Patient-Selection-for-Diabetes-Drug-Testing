@@ -26,6 +26,9 @@ The main structure is divided in:
 * Project description 
 * Project objectives
 * Data preparation, which involves the loading of the dataset, the determination of the dataset level (line or encounter), an exploratory data analysis (EDA), feature selection, splitting the dataset into train, validation and test partitions, demographic representation analysis of the split, the convertion of the dataset splits into TF dataset, among other relevant steps.
+
+![EDA_1](https://github.com/franciscoj-londonoh/Patient-Selection-for-Diabetes-Drug-Testing/blob/main/Images/EHR_data1.png)
+
 * Building vocabulary and creating categorical features with TensorFlow (TF) feature column API
 * Continuous/numerical features creation with TF feature columns
 * Deep learning regression model building with sequential API and TF probability layers, model prediction, uncertainty and evaluation metrics
