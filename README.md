@@ -33,3 +33,5 @@ The main structure is divided in:
 * Continuous/numerical features creation with TF feature columns
 * Deep learning regression model building with sequential API and TF probability layers, model prediction, uncertainty and evaluation metrics
 * Evaluating potential model biases with Aequitas toolkit, such as race and gender bias analysis for patient selection and Fairness analysis relative to a reference group 
+
+![Bias_2](https://github.com/franciscoj-londonoh/Patient-Selection-for-Diabetes-Drug-Testing/blob/main/Images/EHR_bias1.png)
