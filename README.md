@@ -20,7 +20,7 @@ This project includes the completion of the following steps:
 * Evaluating potential model biases with Aequitas toolkit
 
 ## The Project at a glance
-This project is frame in three complementary files: one main code structure (Project) and two supporting files (utils and student_utils). 
+This project is frame in three complementary files: one main code structure ([Project](https://github.com/franciscoj-londonoh/Patient-Selection-for-Diabetes-Drug-Testing/blob/main/Project.ipynb)) and two supporting files ([utils](https://github.com/franciscoj-londonoh/Patient-Selection-for-Diabetes-Drug-Testing/blob/main/utils.py) and [student_utils](https://github.com/franciscoj-londonoh/Patient-Selection-for-Diabetes-Drug-Testing/blob/main/student_utils.py)). 
 
 The main structure is divided in: 
 * Project description 
