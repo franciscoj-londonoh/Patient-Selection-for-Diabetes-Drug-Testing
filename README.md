@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project was part of the path to finish Udacity´s nanodegree: "AI for Healthcare", in which skills acquired in the "Applying AI to EHR Data" course were applied to build a regression model that can support patient's selection for testing a new drug. 
-The model was trained using a GPU for fast training of deep learning architecture, and access to a curated [dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) that [has been modified for this project](https://github.com/udacity/nd320-c1-emr-data-starter/tree/master/project/data_schema_references). 
+The model was trained using a GPU for fast training of a deep learning architecture, and access to a curated [dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) that [has been modified for this project](https://github.com/udacity/nd320-c1-emr-data-starter/tree/master/project/data_schema_references). 
 
 
 ## Background
